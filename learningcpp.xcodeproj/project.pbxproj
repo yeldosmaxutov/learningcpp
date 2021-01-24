@@ -239,6 +239,7 @@
 		2BEF4ED625AF79AD00D3A83A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CSD2F269M2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -248,6 +249,7 @@
 		2BEF4ED725AF79AD00D3A83A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CSD2F269M2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
